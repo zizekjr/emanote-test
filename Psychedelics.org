@@ -2,5 +2,5 @@ I have been obssessed with Psychedelics for years now and having tried LSD twice
 
 Pages matching path '/Psychedelics'
 
-1. [Test](https://zizekjr.github.io/emanote-test/Psychedelics/test.html)
+1. [[https://zizekjr.github.io/emanote-test/Psychedelics/test.html]][[Test]]
 
