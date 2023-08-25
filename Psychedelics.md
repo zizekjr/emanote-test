@@ -1,8 +1,5 @@
-Psychedelics are one of my passionate projects. You can find all the posts that I have written in my knowledge base below:
+I have been obssessed with Psychedelics for years now and having tried LSD twice, I have to say, these substances are worth pursuing from a scientific POV, sure pharamaceuticals company will have a dent in their pockets in the short term but these substances will only line their pockets long term if they fund the much needed research in the field.
 
-
-Pages matching path '/Psychedelics':
+Pages matching path '/Psychedelics'
 
 1. [Test](https://zizekjr.github.io/emanote-test/Psychedelics/test.html)
-
-  
