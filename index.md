@@ -1,4 +1,4 @@
-# Zjr 
+# Z jr. 
 
 > no emotion, no passion, and no sacrifice could render equal in the
 > eyes of the absurd man (even if he wished it so) a conscious life of
